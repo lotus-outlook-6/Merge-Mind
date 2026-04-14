@@ -3,3 +3,4 @@ console.log("Merge Mind Website Initialized!");
 
 //new maal aya hai
 // terminal ka hai yeh 
+//yeh bhi terminal ka hai
